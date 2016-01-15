@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kauppalistat>
+	<lista>
+		<nimi>Perjantain lista</nimi>
+		<tuotteet>
+			<tuote otettu="ok">maito</tuote>
+			<tuote>kalja</tuote>
+			<tuote>hk:n sininen</tuote>
+		</tuotteet>
+	</lista>
+	<lista>
+		<nimi>Rautakaupan lista</nimi>
+		<tuotteet>
+			<tuote>vasara</tuote>
+			<tuote>leka</tuote>
+			<tuote>hammasrauta</tuote>
+		</tuotteet>
+	</lista>
+</kauppalistat>
